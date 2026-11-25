@@ -2,7 +2,7 @@
 
 Projet du cours *Large Scale Data Management* (Pascal Molli, Nantes Université), 2026-2027.
 
-**Membres du groupe :** NOM Prénom, NOM Prénom, NOM Prénom
+**Membres du groupe :** Ali Cheikh, Abdulla Rahaf, Nteneau Simo Alexis
 
 ## Objectif
 
